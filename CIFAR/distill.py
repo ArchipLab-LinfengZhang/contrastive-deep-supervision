@@ -9,7 +9,7 @@ import numpy as np
 from PIL import Image
 import PIL
 from loss import *
-from models.resnet import *
+from resnet import *
 from cutout import *
 
 
